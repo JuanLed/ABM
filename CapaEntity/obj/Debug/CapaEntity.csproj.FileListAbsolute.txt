@@ -1,0 +1,10 @@
+C:\Users\Marcela\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\bin\Debug\CapaEntity.dll
+C:\Users\Marcela\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\bin\Debug\CapaEntity.pdb
+C:\Users\Marcela\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\obj\Debug\CapaEntity.csprojResolveAssemblyReference.cache
+C:\Users\Marcela\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\obj\Debug\CapaEntity.dll
+C:\Users\Marcela\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\obj\Debug\CapaEntity.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\bin\Debug\CapaEntity.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\bin\Debug\CapaEntity.pdb
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\obj\Debug\CapaEntity.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\obj\Debug\CapaEntity.dll
+C:\Users\Juan\Documents\Visual Studio 2015\Projects\ABM\CapaEntity\obj\Debug\CapaEntity.pdb
